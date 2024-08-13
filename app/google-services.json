@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1094518833334",
+    "project_id": "whatsappclone-944b2",
+    "storage_bucket": "whatsappclone-944b2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094518833334:android:fe2045472cf600587a2617",
+        "android_client_info": {
+          "package_name": "raj.animesh.whatsappclone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCjMMmoXLEutblV3eJizuB3TNeiywf_s-0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
